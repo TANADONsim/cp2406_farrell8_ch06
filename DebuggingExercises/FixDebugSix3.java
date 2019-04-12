@@ -1,10 +1,10 @@
-// DebugSix3.java
+// FixDebugSix3.java
 // Prompt user for value to start
 // Value must be between 1 and 20 inclusive
 // At command line, count down to blastoff
 // With a brief pause between each displayed value
 import javax.swing.*;
-public class DebugSix3
+public class FixDebugSix3
 {
   public static void main(String[] args)
   {

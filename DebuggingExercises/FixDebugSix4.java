@@ -1,8 +1,8 @@
-// DebugSix4.java
+// FixDebugSix4.java
 // Displays 5 random numbers between 
 // (and including) user-specified values
 import java.util.Scanner;
-public class DebugSix4
+public class FixDebugSix4
 {
    public static void main(String[] args)
    {
