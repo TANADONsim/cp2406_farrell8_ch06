@@ -6,7 +6,7 @@ public class DebugSix4
 {
    public static void main(String[] args)
    {
-      int high, low, count;
+      int high, low, count = 0;
       final int NUM = 5;
       Scanner input = new Scanner(System.in);
       // Prompt user to enter high and low values
